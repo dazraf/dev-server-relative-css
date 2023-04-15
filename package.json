@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "tsc --build",
+    "watch": "tsc --build --watch",
     "web": "npm start -w @fantastic/web"
   },
   "keywords": [],

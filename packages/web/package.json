@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@fantastic/core": "^1.0.0"
+    "@fantastic/core": "^1.0.0",
+    "@shoelace-style/shoelace": "^2.4.0"
   },
   "devDependencies": {
     "@web/dev-server": "^0.1.38"
